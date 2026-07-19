@@ -1,4 +1,4 @@
-# 📧 Email Spam Detection using Machine Learning
+#  Email Spam Detection using Machine Learning
 
 ##  Project Overview
 
