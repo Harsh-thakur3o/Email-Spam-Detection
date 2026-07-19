@@ -1,6 +1,6 @@
 # 📧 Email Spam Detection using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a Machine Learning-based Email Spam Detection System that predicts whether an email is **Spam** or **Not Spam** using numerical email features.
 
@@ -14,7 +14,7 @@ The project includes:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predicts Spam or Not Spam
 - User-friendly Streamlit Interface
@@ -40,7 +40,7 @@ The project includes:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -82,7 +82,7 @@ Email-Spam-Detection/
 
 ---
 
-## ▶️ Run Locally
+##  Run Locally
 
 Clone the repository
 
@@ -124,7 +124,7 @@ and predicts whether the email is Spam or Not Spam.
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - NLP using TF-IDF
 - Email Subject Analysis
@@ -134,9 +134,9 @@ and predicts whether the email is Spam or Not Spam.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**
+**Harsh Pratap Singh**
 
 B.Tech CSE Student
 
